@@ -26,6 +26,10 @@
 
 ###
 
+<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajd4NmRoZmg4cnR0dzRuM3ltajl4a2sxeXg1bTVpdmkzd3Fxem4xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif"  />
+
+###
+
 <div align="center">
   <a href="https://www.instagram.com/arkshayan.0410/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -40,17 +44,9 @@
 
 ###
 
-<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajd4NmRoZmg4cnR0dzRuM3ltajl4a2sxeXg1bTVpdmkzd3Fxem4xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=titan7k-zc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWF6NzYzcWNzOGJ6ZmRhYXZ5dnY3NWdtM2Jtb2N3YnJldmRmOWZkeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tHIRLHtNwxpjIFqPdV/giphy.gif"  />
 
 ###
 
@@ -68,14 +64,14 @@
 
 ###
 
+<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/titan7k-zc/titan7k-zc/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/titan7k-zc/titan7k-zc/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/titan7k-zc/titan7k-zc/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/titan7k-zc/titan7k-zc/output/snake.svg" alt="Snake animation" />
 
 ###
